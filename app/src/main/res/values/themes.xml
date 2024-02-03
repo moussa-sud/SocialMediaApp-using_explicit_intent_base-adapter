@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.CustomAdapterr" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CustomAdapterr" parent="Base.Theme.CustomAdapterr" />
+</resources>
